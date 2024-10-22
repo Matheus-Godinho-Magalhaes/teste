@@ -1,0 +1,61 @@
+[33mcommit 0ed77900d19e97296642fc376c81ecffdcda9378[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/function[m[33m)[m
+Author: matheusgm <matheusgodinhomagalhaes@gmail.com>
+Date:   Tue Oct 22 14:25:02 2024 -0300
+
+    Add a swap function
+
+[33mcommit f1ee2df4be05455a30f9a16454424cc88dea5707[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: matheusgm <matheusgodinhomagalhaes@gmail.com>
+Date:   Tue Oct 22 12:58:05 2024 -0300
+
+    add coment in hello.py
+
+[33mcommit 5111b701238c8f6a4216035218256cb86e5de5c6[m
+Author: Matheus Godinho Magalhães <165925463+Matheus-Godinho-Magalhaes@users.noreply.github.com>
+Date:   Tue Oct 22 12:56:12 2024 -0300
+
+    Create hello.py
+
+[33mcommit 287973bc89281d9445fd82a71405df3e6f330c38[m
+Author: matheusgm <matheusgodinhomagalhaes@gmail.com>
+Date:   Tue Oct 22 12:50:09 2024 -0300
+
+    voltando
+
+[33mcommit d90df2b5382ae6f021ba627f1756e4c917eadc58[m
+Author: matheusgm <matheusgodinhomagalhaes@gmail.com>
+Date:   Tue Oct 22 12:49:05 2024 -0300
+
+    testando3
+
+[33mcommit 063e3b45a27b1203a459d66d4225871f06660e73[m
+Author: matheusgm <matheusgm@Matheus-Laptop.>
+Date:   Tue Oct 22 12:43:03 2024 -0300
+
+    testando
+
+[33mcommit 90a6d3657d4eb27e6313194ec0e34161b197ebb1[m
+Author: matheusgm <matheusgm@Matheus-Laptop.>
+Date:   Tue Oct 22 12:35:47 2024 -0300
+
+    Creating swapping values feature - DONE
+
+[33mcommit dacc871e4bcca06c5271b12193b6e0679ccd37ce[m
+Author: matheusgm <matheusgm@Matheus-Laptop.>
+Date:   Tue Oct 22 12:13:22 2024 -0300
+
+    Creating swapping values feature - In Progress
+
+[33mcommit 67bb6083111a5b3dd4ca4b3e4db9d690626242d1[m
+Author: Matheus Godinho Magalhães <165925463+Matheus-Godinho-Magalhaes@users.noreply.github.com>
+Date:   Tue Oct 22 12:00:08 2024 -0300
+
+    Create hello.c
+    
+    Criando um arquivo apenas para testar os comandos do Git e GitHub
+
+[33mcommit cf07b2f8415ad98e33526272f1d4d5715d6ea953[m
+Author: Matheus Godinho Magalhães <165925463+Matheus-Godinho-Magalhaes@users.noreply.github.com>
+Date:   Tue Oct 22 11:55:09 2024 -0300
+
+    Initial commit
